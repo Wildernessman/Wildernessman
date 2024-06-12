@@ -3,7 +3,7 @@
 - - 🌱 I’m currently learning ... how to use a computer lol
 - 💞️ I’m looking to collaborate on ... nothing I have no idea what im doing.
 - 📫 How to reach me ...wildernessmanlovelife@gmail.com
-- ⚡ Fun fact: ...I started my journey with computers crypto 6 months ago , 1st time owning a computer , it is a learning curve lol
+- ⚡ Fun fact: ...I started my journey with computers and crypto 6 months ago , 1st time owning a computer , it is a learning curve lol I am using a chrombook with linux seen it say crustini today in the terminal.
 
 <!---
 Wildernessman/Wildernessman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
